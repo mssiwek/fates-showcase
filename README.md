@@ -26,7 +26,7 @@ Everything below is the first step: one binary (`e_b = 0.6`, `q_b = 0.1`), forec
 
 Data split in time: training on orbits 0-3500, validation (early stopping) on 3500-4000, all results below on the held-out orbits 4000-5000.
 
-## The decisions that led to the banner
+## Model development step-by-step
 
 ### 1. Forecast only within the training length
 
