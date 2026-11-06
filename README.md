@@ -67,8 +67,6 @@ Twenty forecasts from random starts in the held-out stretch, 32 sampled trajecto
 
 ![Residuals against N(0,1): histogram and quantile plot](figures/residuals.png)
 
-![Band coverage against lead time](figures/coverage.png)
-
 So the forecasts track the bursts closely, and the band is somewhat too narrow, because a single Gaussian per step is not flexible enough for this series.
 
 ## Next
